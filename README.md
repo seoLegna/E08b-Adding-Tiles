@@ -1,5 +1,13 @@
 # E08b-Adding-Tiles
 
+This is so fun!
+It seems easy enough to use to create some fun games.
+I still need to get used to the new script though.
+
+Thank You for teaching us how to use this tool.
+
+
+
 We will continue adding on to the first Godot project (E08a-Paddle-Ball). In this exercise, we will be learning more about groups and scenes and adding tiles to the game.
 
 As usual, Fork and Clone this repository. Pay attention to where (on the file system) it is being saved.
